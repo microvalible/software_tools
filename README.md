@@ -1,2 +1,2 @@
-# software_tools
+# git lab
 lab1 tutorial for git 
